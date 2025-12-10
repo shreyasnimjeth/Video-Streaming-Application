@@ -1,13 +1,12 @@
-
-<p align="left">
-  <img src="./assets/banner.png" alt="Video Streaming App Banner" width="500px" height= "200px" />
-</p>
-
 # 🎥 Video Streaming Application (Spring Boot + React + MySQL)
 
 This is a full-stack video streaming platform where users upload videos, and the backend automatically converts them into **HTTP Live Streaming (HLS)** format using **FFmpeg**.  
 The video is split into multiple small **`.ts` segments** and a **`.m3u8` playlist**, and these segments are streamed to the browser in chunks for **faster start time, smoother playback, and better performance on different network speeds**.
 
+---
+<p align="left">
+  <img src="./assets/banner.png" alt="Video Streaming App Banner" width="500px" height= "200px" />
+</p>
 ---
 
 ## ✨ Key Features
