@@ -1,7 +1,8 @@
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Video Streaming App Banner" width="400px"/>
+<p align="left">
+  <img src="./assets/banner.png" alt="Video Streaming App Banner" width="150px" />
 </p>
+<br/>
 
 # 🎥 Video Streaming Application (Spring Boot + React + MySQL)
 
