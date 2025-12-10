@@ -5,9 +5,9 @@ The video is split into multiple small **`.ts` segments** and a **`.m3u8` playli
 
 ---
 <p align="left">
-  <img src="./assets/banner.png" alt="Video Streaming App Banner" width="500px" height= "200px" />
+  <img src="./assets/banner.png" alt="Video Streaming App Banner" width="500px" height= "300px" />
 </p>
----
+
 
 ## ✨ Key Features
 
